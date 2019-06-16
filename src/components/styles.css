@@ -1,0 +1,83 @@
+
+.heading {
+    font-family: 'Ropa Sans', sans-serif;
+    background-image: url('../images/healthy.jpg');
+    background-size: cover;
+    background-position: top;
+    padding: 10rem 2rem 10rem !important
+}
+
+@media only screen and (max-width: 500px) {
+    .heading h1,h2{
+        width: 70%;
+    }
+  }
+
+.info {
+    text-align: center;
+    color: rgb(80, 83, 80);
+}
+.info h6 {
+    padding: 2rem 0 0;
+}
+.info p {
+    padding: 0 0 2rem;
+}
+.info a{
+    color: rgb(80, 83, 80);
+    -webkit-transition-duration: 0.6s; /* Safari */
+    transition-duration: 0.6s;
+}
+.info a:hover{
+    color: rgb(6, 180, 6)
+}
+@media only screen and (min-width: 600px){
+    .info {
+        margin: 3rem 0 1rem;
+    }
+}
+/* HELPERS */
+.cards{
+    padding-bottom: 2rem;
+    font-family: 'Muli', sans-serif;
+}
+
+.fullWidth{
+    width: 100%
+}
+
+
+/* PRODUCTS */
+.details-heading{
+    font-family: 'Ropa Sans', sans-serif;
+    text-align: center;
+    padding: 4rem 4rem;
+
+}
+p {
+    font-family: 'Muli', sans-serif;
+}
+.contact-container{
+    padding-bottom: 16rem;
+}
+
+
+
+/* BOTTOM */
+.bottom {
+    background-color:#E8EEEC !important;
+    margin-bottom: 0 !important;
+    text-align: center;
+    padding: 6rem 2rem 0 !important; 
+   
+}
+.bottom a{
+    margin: 0 0.5rem !important;
+    color: grey;
+    -webkit-transition-duration: 0.6s; /* Safari */
+    transition-duration: 0.6s;
+}
+
+.green:hover {
+    color: rgb(6, 180, 6)
+}
