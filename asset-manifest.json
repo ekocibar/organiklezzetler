@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/organiklezzetler/static/css/main.35f05ef8.chunk.css",
+    "main.js": "/organiklezzetler/static/js/main.05a96cb1.chunk.js",
+    "main.js.map": "/organiklezzetler/static/js/main.05a96cb1.chunk.js.map",
+    "runtime~main.js": "/organiklezzetler/static/js/runtime~main.aa9a8f56.js",
+    "runtime~main.js.map": "/organiklezzetler/static/js/runtime~main.aa9a8f56.js.map",
+    "static/css/2.266e55a5.chunk.css": "/organiklezzetler/static/css/2.266e55a5.chunk.css",
+    "static/js/2.8362a41e.chunk.js": "/organiklezzetler/static/js/2.8362a41e.chunk.js",
+    "static/js/2.8362a41e.chunk.js.map": "/organiklezzetler/static/js/2.8362a41e.chunk.js.map",
+    "index.html": "/organiklezzetler/index.html",
+    "precache-manifest.eb4d1f7101a7469db67a658f65abfa6d.js": "/organiklezzetler/precache-manifest.eb4d1f7101a7469db67a658f65abfa6d.js",
+    "service-worker.js": "/organiklezzetler/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/organiklezzetler/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.35f05ef8.chunk.css.map": "/organiklezzetler/static/css/main.35f05ef8.chunk.css.map",
+    "static/media/styles.css": "/organiklezzetler/static/media/healthy.243379cc.jpg",
+    "static/media/healty-square.jpg": "/organiklezzetler/static/media/healty-square.1eaef504.jpg",
+    "static/media/honey.jpeg": "/organiklezzetler/static/media/honey.30948c99.jpeg",
+    "static/media/olive.jpg": "/organiklezzetler/static/media/olive.d38b8483.jpg",
+    "static/media/sarma.jpg": "/organiklezzetler/static/media/sarma.26b8ee04.jpg"
+  }
+}
