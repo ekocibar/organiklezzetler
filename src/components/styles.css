@@ -1,4 +1,5 @@
 
+/* MAIN PAGE */
 .heading {
     font-family: 'Ropa Sans', sans-serif;
     background-image: url('../images/healthy.jpg');
@@ -36,6 +37,11 @@
         margin: 3rem 0 1rem;
     }
 }
+@media only screen and (max-width: 600px){
+    .info:first-child {
+        margin-top: 3rem;
+    }
+}
 /* HELPERS */
 .cards{
     padding-bottom: 2rem;
@@ -57,8 +63,22 @@
 p {
     font-family: 'Muli', sans-serif;
 }
+
+
+/* CONTACT */
 .contact-container{
-    padding-bottom: 16rem;
+    color: rgb(80, 83, 80);
+    padding-bottom: 23rem;
+}
+
+.contact-container a{
+    color: rgb(80, 83, 80);   
+    -webkit-transition-duration: 0.6s; /* Safari */
+    transition-duration: 0.6s;
+    text-decoration: inherit;
+}
+.contact-container .green:hover{
+    color: rgb(6, 180, 6)
 }
 
 
