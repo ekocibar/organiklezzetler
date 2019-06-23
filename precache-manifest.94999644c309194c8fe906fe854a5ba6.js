@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "977ee870c2a3bea98f9c78ae68304a8e",
+    "revision": "3699988c1347fa7bff005082654effa5",
     "url": "/organiklezzetler/index.html"
   },
   {
-    "revision": "07b4e93164355e75aa32",
+    "revision": "2cd575c4399de9074aab",
     "url": "/organiklezzetler/static/css/2.266e55a5.chunk.css"
   },
   {
-    "revision": "1a2bd47fccdd321e756c",
-    "url": "/organiklezzetler/static/css/main.35f05ef8.chunk.css"
+    "revision": "b253c8be2859b9cf2ff0",
+    "url": "/organiklezzetler/static/css/main.af03d3fb.chunk.css"
   },
   {
-    "revision": "07b4e93164355e75aa32",
-    "url": "/organiklezzetler/static/js/2.8362a41e.chunk.js"
+    "revision": "2cd575c4399de9074aab",
+    "url": "/organiklezzetler/static/js/2.558bd869.chunk.js"
   },
   {
-    "revision": "1a2bd47fccdd321e756c",
-    "url": "/organiklezzetler/static/js/main.05a96cb1.chunk.js"
+    "revision": "b253c8be2859b9cf2ff0",
+    "url": "/organiklezzetler/static/js/main.726f74b7.chunk.js"
   },
   {
     "revision": "6ec2b6b3e5412d59019b",
