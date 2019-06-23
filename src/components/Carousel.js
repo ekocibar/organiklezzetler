@@ -2,6 +2,8 @@ import React, { Component } from 'react';
 import honey from '../images/honey.jpeg'
 import olive from '../images/olive.jpg'
 import leaf from '../images/sarma.jpg'
+import healtyImage from '../images/healty-square.jpg'
+
 
 import {
   Carousel,
@@ -15,17 +17,22 @@ const items = [
   {
     src: olive,
     altText: 'SOĞUK SIKIM ZEYTİNYAĞI',
-    caption: 'Saglikli dogal muhtesem zeytinyagi'
+    caption: 'Soğuk sıkım tekniği ile çıkarılan yağ, özellikle erken hasat dönemi denilen Ekim-Kasım ayları aralığında toplanan zeytinlerin 20-24 santigrat derecenin altında, “soğuk sıkım” adı verilen teknikle sıkılmasıyla elde edilir.'
   },
   {
     src: honey,
     altText: 'BİNGÖL BALI',
-    caption: 'Saglikli dogal muhtesem bingol bali'
+    caption: 'Sağlıklı doğal muhteşem Bingol balı'
   },
   {
     src: leaf,
     altText: 'TOKAT ASMA YAPRAĞI',
-    caption: 'Saglikli dogal muhtesem sarma yapragi'
+    caption: 'Narince cinsine dâhil olan beyaz üzüm bağlarından özenle toplanan bu asma yaprakları, dilimsiz, yumuşak ve ince olmasından dolayı çok fazla tercih edilmektedir.'
+  },
+  {
+    src: healtyImage,
+    altText: 'GEZEN TAVUK YUMURTASI',
+    caption: 'Doğal besinlerle beslendiği için; sağlıklıdır, besin değeri yüksektir ve diğer yumurtalara göre daha lezzetlidir.'
   }
 ];
 

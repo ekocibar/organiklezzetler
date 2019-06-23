@@ -13,7 +13,7 @@ class Bottom extends Component {
                     <a href="https://www.instagram.com/_organiklezzetler_" target="1" >
                         <FontAwesomeIcon icon={faInstagram} size="2x" />
                     </a>
-                    <a href="https://api.whatsapp.com/send?phone=905432631150" target="1" >
+                    <a href="https://api.whatsapp.com/send?phone=905432691150" target="1" >
                         <FontAwesomeIcon icon={faWhatsapp} size="2x" className="green"/>
                     </a>
                 </Col>

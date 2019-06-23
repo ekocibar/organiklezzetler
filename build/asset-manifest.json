@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.916bbbe7.chunk.css",
+    "main.js": "/static/js/main.0dd2eee4.chunk.js",
+    "main.js.map": "/static/js/main.0dd2eee4.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.266e55a5.chunk.css": "/static/css/2.266e55a5.chunk.css",
+    "static/js/2.8362a41e.chunk.js": "/static/js/2.8362a41e.chunk.js",
+    "static/js/2.8362a41e.chunk.js.map": "/static/js/2.8362a41e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.8030db34f4e43b619934a88cedd462c8.js": "/precache-manifest.8030db34f4e43b619934a88cedd462c8.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.916bbbe7.chunk.css.map": "/static/css/main.916bbbe7.chunk.css.map",
+    "static/media/styles.css": "/static/media/healthy.243379cc.jpg",
+    "static/media/healty-square.jpg": "/static/media/healty-square.1eaef504.jpg",
+    "static/media/honey.jpeg": "/static/media/honey.30948c99.jpeg",
+    "static/media/olive.jpg": "/static/media/olive.d38b8483.jpg",
+    "static/media/sarma.jpg": "/static/media/sarma.26b8ee04.jpg"
+  }
+}

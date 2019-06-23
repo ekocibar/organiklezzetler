@@ -25,13 +25,13 @@ class Navigation extends Component{
           <Collapse isOpen={this.state.isOpen} navbar>
               <Nav className="ml-auto" navbar>
                 <NavItem>
-                <NavLink to="/Irtibat" tag={Link}>Irtibat</NavLink>
+                <NavLink to="/İletişim" tag={Link}>İletişim</NavLink>
               </NavItem>   
               <NavItem>
-                <NavLink to="/Urunler" tag={Link}>Urunler</NavLink>
+                <NavLink to="/Ürünler" tag={Link}>Ürünler</NavLink>
               </NavItem>        
               <NavItem>
-                <NavLink to="/Hakkinda" tag={Link}>Neden Organik?</NavLink>
+                <NavLink to="/Neden-Organik" tag={Link}>Neden Organik?</NavLink>
               </NavItem>
             </Nav>
           </Collapse>

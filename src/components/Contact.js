@@ -5,18 +5,17 @@ class Contact extends Component{
   render(){
     return(
       <div>
-        <h1 className='details-heading'>ILETISIM</h1>
+        <h1 className='details-heading'>İLETİŞİM</h1>
         <Container className='contact-container'>
           <Row>
             <Col>
               <p>
-                Telefon : 0543 263 11 50
+                Telefon : 
+                <a className='green' href="https://api.whatsapp.com/send?phone=905432691150" target="1"> 0543 269 11 50</a>
               </p>
-              <p>
-                email : organiklezzetler@gmail.com
-              </p>
-              <p>
-                instagram : https://www.instagram.com/_organiklezzetler_/
+              <p> 
+                instagram :
+                <a className='blue' href="https://www.instagram.com/_organiklezzetler_/">  _organiklezzetler_</a>
               </p>
             </Col>
           </Row>

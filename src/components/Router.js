@@ -9,9 +9,9 @@ import Contact from './Contact';
 const Router = () => (
   <Switch>
     <Route exact path='/' component={MainPage} />
-    <Route path='/Urunler' component={Products} />
-    <Route path='/Hakkinda' component={About} />
-    <Route path='/Irtibat' component={Contact} />
+    <Route path='/Ürünler' component={Products} />
+    <Route path='/Neden-Organik' component={About} />
+    <Route path='/İletişim' component={Contact} />
   </Switch>
 )
 

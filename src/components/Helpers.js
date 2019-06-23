@@ -7,7 +7,7 @@ const cards = (img, title, info) => (
     <Card>
       <CardImg top width="100%" src={img} alt="foto" />
       <CardBody>
-        <CardTitle>{title}</CardTitle>
+        <CardTitle><strong>{title}</strong></CardTitle>
         <CardText>{info}</CardText>
       </CardBody>
     </Card>
