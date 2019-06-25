@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import healtyImage from '../images/healty-square.jpg'
+import egg from '../images/egg.jpg'
 import honey from '../images/honey.jpeg'
 import olive from '../images/olive.jpg'
 import leaf from '../images/sarma.jpg'
@@ -15,7 +15,7 @@ class Products extends Component{
         <Container>
           <Row>
             {cards(
-              healtyImage,
+              egg,
               'Gezen Tavuk Yumurtası',
               'Serbest gezen tavuklar özgürdür. Doğanın sunduğu doğal besinlerle beslenen, doğada serbest dolaşan ve doğasına uygun şartlarda yaşayan, doğal döllenme yöntemleri ile üreyen tavuklardan elde edilen yumurtalardır. Doğal besinlerle beslendiği için; sağlıklıdır, besin değeri yüksektir ve diğer yumurtalara göre daha lezzetlidir.'
               )
