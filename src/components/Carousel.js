@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import honey from '../images/honey.jpeg'
 import olive from '../images/olive.jpg'
 import leaf from '../images/sarma.jpg'
-import healtyImage from '../images/healty-square.jpg'
+import egg from '../images/egg.jpg'
 
 
 import {
@@ -30,7 +30,7 @@ const items = [
     caption: 'Narince cinsine dâhil olan beyaz üzüm bağlarından özenle toplanan bu asma yaprakları, dilimsiz, yumuşak ve ince olmasından dolayı çok fazla tercih edilmektedir.'
   },
   {
-    src: healtyImage,
+    src: egg,
     altText: 'GEZEN TAVUK YUMURTASI',
     caption: 'Doğal besinlerle beslendiği için; sağlıklıdır, besin değeri yüksektir ve diğer yumurtalara göre daha lezzetlidir.'
   }

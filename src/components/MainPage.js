@@ -38,14 +38,15 @@ class MainPage extends Component {
             <Col  xs="12" sm="4" className="info" >
               <FontAwesomeIcon icon={faShippingFast} size="4x"/>
               <h6>HIZLI TESLİMAT</h6>
-              <p>Siparişleriniz özenle adresinize teslim edilir.</p>
+              <p>İstanbul'a özel, 100TL ve üzeri alışverişlerinizde; siparişleriniz adresinize teslim edilir.
+              İstanbul dışı siparişlerde hızlı ve özenli bir şekilde kargolanır.</p>
             </Col>
             <Col  xs="12" sm="4" className="info" >
             <a href="https://api.whatsapp.com/send?phone=905432691150" target="1">
               <FontAwesomeIcon icon={faWhatsappSquare} size="4x" />
             </a>
               <h6>TELEFONDA SİPARİŞ</h6>
-              <p>0543 269 11 50<br/>Yukarıdaki butona tıklayıp anında Whatsapp'dan bize ulaşabilirsiniz.</p>
+              <p>0543 269 11 50<br/>Sipariş için lütfen mesaj bırakınız. <br/> Yukarıdaki butona tıklayıp anında Whatsapp'dan bize ulaşabilirsiniz.</p>
             </Col>
           </Row>
         </Container>
